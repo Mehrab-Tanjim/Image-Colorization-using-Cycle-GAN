@@ -1,0 +1,13 @@
+************************************************************
+CNN part:
+clear_cnn_rgb.py is a file include the model of 4 layers CNN model which mentioned in the report. And it use the lab.npy data as input data. We transform the lab data to the rgb data at first, and then use gray images and rgb images as input to train the model.
+The data and code is built from the codebase(website):https://www.kaggle.com/aleksandarkostadinov/image-colorization-cnn.
+
+And the base_line_cnn.py include a more complicated CNN model which is not mentioned in the report. And the vanilla_cnn.py file is to implement this model using the data mentioned above. And the code model is built from the codebase: https://github.com/TengdaHan/Image-Colorization
+
+
+#Built from this cycle-gan codebase: https://github.com/aitorzip/PyTorch-CycleGAN
+
+Download the kaggle dataset as mentioned in the paper.
+Put the dataset in a folder. Let the folder name be 'dataset'. Put the gray-scale image in
+a folder named A and th ab in B. Also create a folder named 'output'. Then simply run the ipynb and the outputs will be generated.

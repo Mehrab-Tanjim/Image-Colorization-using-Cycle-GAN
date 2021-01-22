@@ -7,4 +7,4 @@ a folder named A and the ab in B. Also create a folder named 'output'.
  
 For details of the model and experiment, please read our report.
 
-Acknoledgement: Codebase used: https://github.com/aitorzip/PyTorch-CycleGAN
+Acknowledgement: Codebase used: https://github.com/aitorzip/PyTorch-CycleGAN
